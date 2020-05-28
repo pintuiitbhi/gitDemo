@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/pintuk0716/Getting%20started/_apis/build/status/pintuiitbhi.gitDemo?branchName=master)](https://dev.azure.com/pintuk0716/Getting%20started/_build/latest?definitionId=3&branchName=master)
